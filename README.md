@@ -11,13 +11,13 @@ Note: Trivia questions are pulled from the open-source trivia database Open Triv
 * Share: Share your game progress with friends. Shares the current question you're on in case you want to ask for help and your score.
 
 # Screenshots
-<img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/mainmenu.jpg" width="250" height="380">
+<img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/mainmenu.jpg" width="50%" height="50%">
 <img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/screenshot2.jpg" width="250" height="380">
 <img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/screenshot3.jpg" width="250" height="380">
 
 
 # Demo
-<img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/customizationDemo.gif" width="250" height="380">
+<img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/customizationDemo.gif" width="50%" height="50%">
 <img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/demo1.gif" width="250" height="380">
 <img src="https://github.com/EzzatBoukhary/trivia-app/blob/main/demo2.gif" width="250" height="380">
 
