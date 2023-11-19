@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baloo_thambi</item>
+        <item>@font/bangers</item>
+        <item>@font/chewy</item>
+        <item>@font/imprima</item>
+        <item>@font/margarine</item>
+        <item>@font/paprika</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/roboto_light</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/roboto_thin</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

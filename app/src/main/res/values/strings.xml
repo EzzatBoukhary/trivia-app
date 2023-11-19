@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: 45/89</string>
+    <string name="TRUE_BUTTON">TRUE</string>
+    <string name="FALSE_BUTTON">FALSE</string>
+    <string name="SKIP_BUTTON">SKIP</string>
+    <string name="placeholder">Hello world this is where we are going to add the actual text to be shown</string>
+    <string name="text_formatted">Question: %d/%d</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="required_text">* required</string>
+    <string name="true_false_url_text">boolean</string>
+    <string name="multiple_choice_url_text">multiple</string>
+    <string name="button_placeholder_text">Answer Text</string>
+    <string name="score_placeholder">Current Score: 0</string>
+    <string name="share_button_text">SHARE</string>
+    <string name="home_button_text">Home</string>
+    <string name="welcome_description_text">Customize your Trivia below!</string>
+    <string name="category_text">Category:</string>
+    <string name="question_type_text">Question Type:</string>
+    <string name="difficulty_text">Difficulty:</string>
+    <string name="play_btn_text">Play</string>
+    <string name="category_placeholder">Category: Placeholder</string>
+    <string name="difficulty_placeholder">Difficulty: Placeholder</string>
+    <string name="note">Note: Some categories may not return results for specific customizations.</string>
+</resources>
